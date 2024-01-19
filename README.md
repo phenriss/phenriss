@@ -1,1 +1,1 @@
-<p align="center><img src="/img/banner-phenriss.jpg"></p>
+<p align="center"><img src="/img/banner-phenriss.jpg"></p>
