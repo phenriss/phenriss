@@ -1,1 +1,1 @@
-![banner](/img/banner-phenriss.jpg)
+<img src="/img/banner-phenriss.jpg">
