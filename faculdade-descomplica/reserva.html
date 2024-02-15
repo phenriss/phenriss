@@ -6,8 +6,11 @@
     <title>Formulario de Reserva de Viagem</title>
 </head>
 <body>
+    
     <h1>Formulário de Reserva de Viagem</h1>
+    
     <form action="#" method="">
+        
         <fieldset>
             <legend>Dados do Cliente</legend>
 
@@ -22,9 +25,42 @@
         <fieldset>
             <legend>Serviços Desejados</legend>
 
-            
+            <input type="checkbox" id="passagens" name="Serviços" value="passagens">
+            <label for="passagens">Compra de Passagens</label><br>
+
+            <input type="checkbox" id="hospedagem" name="Serviços" value="hospedagem">
+            <label for="hospedagem">Reserva de Hospedagem</label><br>
+
+            <input type="checkbox" id="veiculos" name="Serviços" value="veiculos">
+            <label for="veiculos">Aluguel de Veiculos</label><br>
+        </fieldset>
+        
+        <fieldset>
+            <legend>Forma de Pagamento</legend>
+
+            <input type="radio" id="cartão" name="pagsmrnto" value="cartão">
+            <label for="cartão">Cartão de Credito</label><br>
+
+            <input type="radio" id="boleto" name="pagsmrnto" value="boleto">
+            <label for="boleto">Boleto</label><br>
+
+            <input type="radio" id="pix" name="pagsmrnto" value="pix">
+            <label for="pix">PIX</label><br>
+        </fieldset>
+        
+        <fieldset>
+            <legend>Prazo de Pagamento</legend>
+
+            <select name="prazo" id="prezo">
+                <option value="uma">À Vista</option>
+                <option value="tres">03 Vezes Sem Juros</option>
+                <option value="seis">06 Vezes Sem Juros</option>
+                <option value="doze">12 Vezes Com Juros</option>
+            </select>
         </fieldset>
 
+        <input type="submit" value="Enviar">
+        
     </form>
 </body>
 </html>
