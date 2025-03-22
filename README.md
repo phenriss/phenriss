@@ -1,11 +1,13 @@
 <p align="center"><img src="/img/banner-phenriss.jpg"></p>
 
 ## 👤 About me
- Experienced Flutter Developer, since 2019 building mobile applications for Android and iOS.
+ Hello! My name is Paulo Silva, and I am a beginner web developer who is passionate about creating innovative and effective solutions. With basic knowledge of HTML5, CSS3 and JavaScript, I am eager to apply my skills to challenging projects and learn from hands-on experience.
 
- Skilled in using Flutter framework, Dart programming language, and other tools and technologies to develop user-friendly and responsive applications. 
+In addition, I am currently learning Python, which will allow me to expand my skills in software development and data analysis.
 
- Ability to work collaboratively with cross-functional teams to deliver high-quality products.
+I am motivated to create technology that makes a difference in people's lives. I am looking for opportunities to collaborate with talented teams and learn from experienced professionals.
+
+If you are looking for an entry-level developer with passion and dedication, I am available.
 
 
 ## ⚡ Hardskills
