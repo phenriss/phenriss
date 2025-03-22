@@ -9,9 +9,10 @@
 
 
 ## ⚡ Hardskills
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=0E76A8)
-![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=blue) 
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=red) 
+![HTML5](https://img.shields.io/badge/html5?style=for-the-badge&logo=html5&logoColor=0E76A8)
+![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=dart&logoColor=blue) 
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=red)
+![Phyton](https://img.shields.io/badge/phyton-000?style=for-the-badge&logo=phyton&logoColor=yellow)
 
 ## 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=phenriss&theme=bear&background=000&border=30A3DC&dates=FFF)
