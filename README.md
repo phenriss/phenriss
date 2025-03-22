@@ -11,7 +11,7 @@
 ## ⚡ Hardskills
 ![HTML5](https://img.shields.io/badge/html5?style=for-the-badge&logo=html5&logoColor=0E76A8)
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=dart&logoColor=blue) 
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=red)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Phyton](https://img.shields.io/badge/phyton-000?style=for-the-badge&logo=phyton&logoColor=yellow)
 
 ## 📊 GitHub Stats:
