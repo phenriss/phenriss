@@ -1,5 +1,3 @@
-<p align="center"><img src="/img/banner-phenriss.jpg"></p>
-
 ## 👤 About me
  Hello! My name is Paulo Silva, and I am a beginner web developer who is passionate about creating innovative and effective solutions. With basic knowledge of HTML5, CSS3 and JavaScript, I am eager to apply my skills to challenging projects and learn from hands-on experience.
 
